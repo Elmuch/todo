@@ -5,5 +5,10 @@
     "Elijah Gachuhi <elgachuhi@gmail.com>"
   ],
   "description": "todo UI",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "lodash": "~3.8.0",
+    "jquery": "~2.1.4",
+    "bootstrap": "~3.3.4"
+  }
 }
