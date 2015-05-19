@@ -1,0 +1,9 @@
+{
+  "name": "toDo",
+  "version": "0.0.0",
+  "authors": [
+    "Elijah Gachuhi <elgachuhi@gmail.com>"
+  ],
+  "description": "todo UI",
+  "license": "MIT"
+}
