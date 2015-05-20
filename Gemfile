@@ -5,7 +5,8 @@ gem 'sinatra'
 gem 'sinatra-activerecord'
 gem 'rake'
 gem 'activerecord'
-
+gem 'byebug'
+gem 'json'
 
 group :development do
   gem 'sqlite3'
